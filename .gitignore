@@ -1,0 +1,5 @@
+*.env
+*.js
+**/Pending
+**/*.js
+/node_modules
